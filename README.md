@@ -2,6 +2,7 @@
 A fun interactive graph of pokemons mapped to their abilities and types using pyvis
 
 
+<img width="1210" alt="image" src="https://github.com/user-attachments/assets/1e713986-2259-4f04-b59e-1484a411f785" />
 
 
 
